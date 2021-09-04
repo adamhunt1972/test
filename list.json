@@ -1,0 +1,10 @@
+{  
+    "1": {  
+        "name":       "London",   
+        "link":      "https://worldtimeapi.org/api/timezone/Europe/London"   
+    },  
+    "2": {  
+        "name":       "Kolkata",   
+        "link":      "https://worldtimeapi.org/api/timezone/Asia/Kolkata"   
+    }
+} 
