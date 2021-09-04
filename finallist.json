@@ -1,0 +1,402 @@
+{  
+    "1": {  
+        "name":       "Adelaide",   
+        "link":      "http://worldtimeapi.org/api/timezone/Australia/Adelaide"   
+    },  
+    "2": {  
+        "name":       "Amsterdam",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Amsterdam"   
+    },  
+    "3": {  
+        "name":       "Ankara",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-3"   
+    },  
+    "4": {  
+        "name":       "Athens",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Athens"   
+    },  
+    "5": {  
+        "name":       "Atlanta",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "6": {  
+        "name":       "Auckland",   
+        "link":      "http://worldtimeapi.org/api/timezone/Pacific/Auckland"   
+    },  
+    "7": {  
+        "name":       "Bangkok",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Bangkok"   
+    },  
+    "8": {  
+        "name":       "Barcelona",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-2"   
+    },  
+    "9": {  
+        "name":       "Beijing",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-8"   
+    },  
+    "10": {  
+        "name":       "Bengaluru",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kolkata"   
+    },  
+    "11": {  
+        "name":       "Berlin",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Berlin"   
+    },  
+    "12": {  
+        "name":       "Bogota",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Bogota"   
+    },  
+    "13": {  
+        "name":       "Boston",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "14": {  
+        "name":       "Brisbane",   
+        "link":      "http://worldtimeapi.org/api/timezone/Australia/Brisbane"   
+    },  
+    "15": {  
+        "name":       "Brussels",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Brussels"   
+    },  
+    "16": {  
+        "name":       "Bucharest",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Bucharest"   
+    },  
+    "17": {  
+        "name":       "Budapest",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Budapest"   
+    },  
+    "18": {  
+        "name":       "Buenos Aires",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Argentina/Buenos_Aires"   
+    },  
+    "19": {  
+        "name":       "Cairo",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-2"   
+    },  
+    "20": {  
+        "name":       "Canberra",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-10"   
+    },  
+    "21": {  
+        "name":       "Cape Town",   
+        "link":      "http://worldtimeapi.org/api/timezone/Africa/Johannesburg"   
+    },  
+    "22": {  
+        "name":       "Casablanca",   
+        "link":      "http://worldtimeapi.org/api/timezone/Africa/Casablanca"   
+    },  
+    "23": {  
+        "name":       "Chicago",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Chicago"   
+    },  
+    "24": {  
+        "name":       "Copenhagen",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Copenhagen"   
+    },  
+    "25": {  
+        "name":       "Dallas",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+5"   
+    },  
+    "26": {  
+        "name":       "Denver",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Denver"   
+    },  
+    "27": {  
+        "name":       "Detroit",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Detroit"   
+    },  
+    "28": {  
+        "name":       "Doha",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-3"   
+    },  
+    "29": {  
+        "name":       "Dubai",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Dubai"   
+    },  
+    "30": {  
+        "name":       "Dublin",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Dublin"   
+    },  
+    "31": {  
+        "name":       "Frankfurt",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Berlin"   
+    },  
+    "32": {  
+        "name":       "Hanoi",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-7"   
+    },  
+    "33": {  
+        "name":       "Havana",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Havana"   
+    },  
+    "34": {  
+        "name":       "Helsinki",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Helsinki"   
+    },  
+    "35": {  
+        "name":       "Hong Kong",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Hong_Kong"   
+    },  
+    "36": {  
+        "name":       "Houston",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+5"   
+    },  
+    "37": {  
+        "name":       "Indianapolis",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Indiana/Indianapolis"   
+    },  
+    "38": {  
+        "name":       "Istanbul",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Istanbul"   
+    },  
+    "39": {  
+        "name":       "Jakarta",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Jakarta"   
+    },  
+    "40": {  
+        "name":       "Jerusalem",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Jerusalem"   
+    },  
+    "41": {  
+        "name":       "Johannesburg",   
+        "link":      "http://worldtimeapi.org/api/timezone/Africa/Johannesburg"   
+    },  
+    "42": {  
+        "name":       "Kabul",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kabul"   
+    },  
+    "43": {  
+        "name":       "Kathmandu",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kathmandu"   
+    },  
+    "44": {  
+        "name":       "Kolkata",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kolkata"   
+    },  
+    "45": {  
+        "name":       "Kuala Lumpur",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kuala_Lumpur"   
+    },  
+    "46": {  
+        "name":       "Kuwait City",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-3"   
+    },  
+    "47": {  
+        "name":       "Kyiv",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-3"   
+    },  
+    "48": {  
+        "name":       "La Paz",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/La_Paz"   
+    },  
+    "49": {  
+        "name":       "Las Vegas",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+7"   
+    },  
+    "50": {  
+        "name":       "Lima",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Lima"   
+    },  
+    "51": {  
+        "name":       "Lisbon",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Lisbon"   
+    },  
+    "52": {  
+        "name":       "Madrid",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Madrid"   
+    },  
+    "53": {  
+        "name":       "Manila",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Manila"   
+    },  
+    "54": {  
+        "name":       "Melbourne",   
+        "link":      "http://worldtimeapi.org/api/timezone/Australia/Melbourne"   
+    },  
+    "55": {  
+        "name":       "Mexico City",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Mexico_City"   
+    },  
+    "56": {  
+        "name":       "Miami",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "57": {  
+        "name":       "Minneapolis",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+5"   
+    },  
+    "58": {  
+        "name":       "Minsk",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Minsk"   
+    },  
+    "59": {  
+        "name":       "Montreal",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "60": {  
+        "name":       "Moscow",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Moscow"   
+    },  
+    "61": {  
+        "name":       "Mumbai",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kolkata"   
+    },  
+    "62": {  
+        "name":       "Nairobi",   
+        "link":      "http://worldtimeapi.org/api/timezone/Africa/Nairobi"   
+    },  
+    "63": {  
+        "name":       "New Delhi",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Kolkata"   
+    },  
+    "64": {  
+        "name":       "New Orleans",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+5"   
+    },  
+    "65": {  
+        "name":       "Oslo",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Oslo"   
+    },  
+    "66": {  
+        "name":       "Ottawa",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "67": {  
+        "name":       "Perth",   
+        "link":      "http://worldtimeapi.org/api/timezone/Australia/Perth"   
+    },  
+    "68": {  
+        "name":       "Philadelphia",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "69": {  
+        "name":       "Phoenix",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Phoenix"   
+    },  
+    "70": {  
+        "name":       "Prague",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Prague"   
+    },  
+    "71": {  
+        "name":       "Rio de Janeiro",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+3"   
+    },  
+    "72": {  
+        "name":       "Riyadh",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Riyadh"   
+    },  
+    "73": {  
+        "name":       "Rome",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Rome"   
+    },  
+    "74": {  
+        "name":       "Salk Lake City",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+6"   
+    },  
+    "75": {  
+        "name":       "San Francisco",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+7"   
+    },  
+    "76": {  
+        "name":       "San Juan",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Argentina/San_Juan"   
+    },  
+    "77": {  
+        "name":       "San Salvador",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+6"   
+    },  
+    "78": {  
+        "name":       "Santiago",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Santiago"   
+    },  
+    "79": {  
+        "name":       "Sao Paulo",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Sao_Paulo"   
+    },  
+    "80": {  
+        "name":       "Seattle",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+7"   
+    },  
+    "81": {  
+        "name":       "Seoul",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Seoul"   
+    },  
+    "82": {  
+        "name":       "Shanghai",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Shanghai"   
+    },  
+    "83": {  
+        "name":       "Singapore",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Singapore"   
+    },  
+    "84": {  
+        "name":       "Sofia",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Sofia"   
+    },  
+    "85": {  
+        "name":       "Stockholm",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Stockholm"   
+    },  
+    "86": {  
+        "name":       "Sydney",   
+        "link":      "http://worldtimeapi.org/api/timezone/Australia/Sydney"   
+    },  
+    "87": {  
+        "name":       "Taipei",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT-8"   
+    },  
+    "88": {  
+        "name":       "Tehran",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Tehran"   
+    },  
+    "89": {  
+        "name":       "Tokyo",   
+        "link":      "http://worldtimeapi.org/api/timezone/Asia/Tokyo"   
+    },  
+    "90": {  
+        "name":       "Toronto",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Toronto"   
+    },  
+    "91": {  
+        "name":       "Vancouver",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Vancouver"   
+    },  
+    "92": {  
+        "name":       "Vienna",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Vienna"   
+    },  
+    "93": {  
+        "name":       "Warsaw",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Warsaw"   
+    },  
+    "94": {  
+        "name":       "Washington DC",   
+        "link":      "http://worldtimeapi.org/api/timezone/Etc/GMT+4"   
+    },  
+    "95": {  
+        "name":       "Winnipeg",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Winnipeg"   
+    },  
+    "96": {  
+        "name":       "Zurich",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Zurich"   
+    },  
+    "97": {  
+        "name":       "London",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/London"   
+    },  
+    "98": {  
+        "name":       "Paris",   
+        "link":      "http://worldtimeapi.org/api/timezone/Europe/Paris"   
+    },  
+    "99": {  
+        "name":       "New York",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/New_York"   
+    },  
+    "100": {  
+        "name":       "Los Angeles",   
+        "link":      "http://worldtimeapi.org/api/timezone/America/Los_Angeles"   
+    }
+} 
